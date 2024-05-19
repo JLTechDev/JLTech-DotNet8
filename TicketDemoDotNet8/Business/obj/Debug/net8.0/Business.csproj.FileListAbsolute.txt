@@ -1,0 +1,17 @@
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Business.deps.json
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Business.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Business.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Database.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Interfaces.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Interfaces.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\bin\Debug\net8.0\Database.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\refint\Business.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\Business.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Business\obj\Debug\net8.0\ref\Business.dll

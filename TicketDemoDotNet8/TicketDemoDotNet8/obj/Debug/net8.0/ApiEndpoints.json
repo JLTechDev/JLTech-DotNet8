@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "TicketDemoDotNet8.Controllers.TicketController",
+    "Method": "CreateTicket",
+    "RelativePath": "Ticket/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticket",
+        "Type": "Business.Models.TicketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TicketDemoDotNet8.Controllers.TicketController",
+    "Method": "GetTicket",
+    "RelativePath": "Ticket/Get",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TicketDemoDotNet8.Controllers.TicketController",
+    "Method": "UpdateTicket",
+    "RelativePath": "Ticket/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticket",
+        "Type": "Business.Models.TicketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

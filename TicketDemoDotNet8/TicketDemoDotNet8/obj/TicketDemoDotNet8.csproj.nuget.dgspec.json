@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joshua Leatherland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj",
+        "projectName": "Database",
+        "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joshua Leatherland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joshua Leatherland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj": {
+                "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8.csproj",
+        "projectName": "TicketDemoDotNet8",
+        "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8.csproj",
+        "packagesPath": "C:\\Users\\Joshua Leatherland\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\TicketDemoDotNet8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joshua Leatherland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Business\\Business.csproj": {
+                "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Business\\Business.csproj"
+              },
+              "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj": {
+                "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Database\\Database.csproj"
+              },
+              "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\Development\\Git\\JLTech\\JLTech-DotNet8\\TicketDemoDotNet8\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\bin\Debug\net8.0\Database.deps.json
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\bin\Debug\net8.0\Database.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\bin\Debug\net8.0\Database.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\refint\Database.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\Database.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Database\obj\Debug\net8.0\ref\Database.dll

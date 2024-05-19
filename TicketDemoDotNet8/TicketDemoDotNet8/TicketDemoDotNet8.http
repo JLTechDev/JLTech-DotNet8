@@ -1,0 +1,6 @@
+@TicketDemoDotNet8_HostAddress = http://localhost:5112
+
+GET {{TicketDemoDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

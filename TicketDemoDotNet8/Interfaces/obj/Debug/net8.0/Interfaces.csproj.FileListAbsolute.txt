@@ -1,0 +1,15 @@
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\bin\Debug\net8.0\Interfaces.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\bin\Debug\net8.0\Database.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\bin\Debug\net8.0\Database.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+D:\Development\Git\JLTech\JLTech-DotNet8\TicketDemoDotNet8\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
